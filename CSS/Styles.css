@@ -101,10 +101,6 @@ hr {
   padding-left: 50px;
 }
 
-.desc {
-  padding-bottom: 30px;
-}
-
 .bottom-text {
   padding-bottom: 50px;
 }
@@ -123,7 +119,8 @@ hr {
 
 .desc {
   margin: auto;
-  width: 1000px;
+  width: 800px;
+  padding-bottom: 30px;
 }
 /*******************************Button Here***********************************/
 .btn {
