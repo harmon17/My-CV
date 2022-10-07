@@ -120,6 +120,11 @@ hr {
 .contact-me {
   padding-bottom: 10px;
 }
+
+.desc {
+  margin: auto;
+  width: 1000px;
+}
 /*******************************Button Here***********************************/
 .btn {
   background: #11cdd4;
